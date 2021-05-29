@@ -1,4 +1,5 @@
 # projetKotlinFetchAPI : projet de cours
+[![CI](https://github.com/Ekinman/KotlinProjetFetchAPI/actions/workflows/blank.yml/badge.svg)](https://github.com/Ekinman/KotlinProjetFetchAPI/actions/workflows/blank.yml)
 - 2 Exemple de CI/CD : un build gradle et une fonctionnalité fourni par github (autolabel)
 - 1 TDD - Test de fetch sur une API en utilisant rétrofit
 - 1 Système de BDD SQLITE3 pour stocker les objets du recycler view
