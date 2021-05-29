@@ -1,17 +1,18 @@
-# projetKotlinFetchAPI : projet de cours
-[![CI](https://github.com/Ekinman/KotlinProjetFetchAPI/actions/workflows/blank.yml/badge.svg)](https://github.com/Ekinman/KotlinProjetFetchAPI/actions/workflows/blank.yml)
-- 2 Exemple de CI/CD : un build gradle et une fonctionnalité fourni par github (autolabel)
-- 1 TDD - Test de fetch sur une API en utilisant rétrofit
+# Projet Kotlin
+
+
+- 1 Exemple de CI/CD
+- Vérification que l'API fonctionne correctement pour le premier résultat : TDD
 - 1 Système de BDD SQLITE3 pour stocker les objets du recycler view
-- 1 Ajout random d'un élément sur le recycler view
-- 1 Bouton pour fetcher
-- 1 Bouton pour supprimer random
+- 1 Page d'ajout d'un pokemon
+- 1 Page de détail d'un pokemon
+- Fetch de la PokeAPI
 
-Design pattern adapter pour gérer l'affichage et le déroulé des items sur le recycler view
-(Ici on ajoute un élément aléatoirement mais on pourrait aussi faire une activité (page d'ajout) avec un intent ou on saisi via input)
-
-Gitflow => appris sur le tas avec Android-Studio
-Logger (log de fonctionnement) et Firebase notification => En cours...
+Utilisation du design pattern le plus courant : Adapter
+Gitflow - module VCS d'android studio
 
 
-Importer via le fichier ZIP (export clean via android-studio)
+# Le fichier ZIP doit-être téléchargé puis importé dans android-studio
+
+[![CI](https://github.com/Ekinman/KotlinProjetFetchAPI/actions/workflows/blank.yml/badge.svg)](https://github.com/Ekinman/KotlinProjetFetchAPI/actions/workflows/blank.yml)
+
